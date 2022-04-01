@@ -1,0 +1,1 @@
+"use strict";$(".carousel-products").slick({slidesToShow:1,slidesToScroll:1,infinite:!0,arrows:!1,autoplay:!0,autoplaySpeed:5e3,mobileFirst:!0,responsive:[{breakpoint:576,settings:{slidesToShow:2}},{breakpoint:768,settings:{slidesToShow:3}},{breakpoint:1200,settings:{slidesToShow:4}}]});
